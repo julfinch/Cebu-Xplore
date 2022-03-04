@@ -22,7 +22,7 @@ Create a website using what you've learned in The Coding School Bootcamp. Codes 
 
 ### Links
 
-- Live Site URL: [https://julfinch.github.io/Finch-Shopping/](https://julfinch.github.io/Finch-Shopping/)
+- Live Site URL: [https://julfinch.github.io/Cebu-Xplore/](https://julfinch.github.io/Cebu-Xplore/)
 
 ## My process
 
