@@ -54,9 +54,6 @@ header ul li a:hover {
 .body-margin-top {
     margin-top: 55px;
 }
-#carouselIndex {
-    height: 100vh;
-}
 .carousel-inner h5 {
     background-color: rgb(250, 250, 250, 0.75);
     border-radius: 10px;
