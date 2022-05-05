@@ -15,6 +15,9 @@ footer {
     font-size: 13px;
     height: 20vh;
 }
+.navbar {
+    height: 8vh;
+}
 html {
     scroll-behavior: smooth;
 }
