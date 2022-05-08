@@ -9,12 +9,7 @@
 .navbar {
     height: 8vh;
 }
-footer {
-    color: white;
-    font-family: 'PT Sans', sans-serif;
-    font-size: 13px;
-    height: 20vh;
-}
+
 .navbar {
     height: 8vh;
 }
@@ -74,12 +69,6 @@ header ul li a:hover {
 .carousel-inner p {
     color: black;
     font-size: small;
-}
-footer {
-    background-color: black;
-}
-#footer_logo {
-    margin-top: 20px;
 }
 .bi {
     vertical-align: -.125em;
